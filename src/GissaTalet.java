@@ -1,5 +1,4 @@
-import jdk.nashorn.internal.scripts.JO;
-
+/*
 import javax.swing.*;
 import java.util.Random;
 
@@ -20,4 +19,4 @@ public class GissaTalet {
             Integer.parseInt(JOptionPane.showMessageDialog(null,"Du gissade rätt! Grattis!"));
         }
     }
-}
+}*/
