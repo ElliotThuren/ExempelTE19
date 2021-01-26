@@ -7,7 +7,7 @@ public class gubbe {
     public static void main(String []args) {
 
         String[] ord = new String[] {
-                "soppa", "husbil", "vaccinerad", "biljett", "indikator"
+                "soppa"
         };
           System.out.println(
                   "Ord: " + Arrays.toString(ord));

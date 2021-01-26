@@ -4,3 +4,5 @@ Det har inte gått så jätte bra idag, för att jag inte komihåg allt med gith
 19/1-2021
 Idag har jag gjort koden som slumpar ett ord och börjat på att skriva det som behövs för att man ska kunna gissa en bokstav. Kommer förmodligen att behöva lite hjälp.
 
+26/1-2021
+Har nästan inte fått någonting gjort idag, har kollat på olika youtube videos som förklarar hur man ska göra.
