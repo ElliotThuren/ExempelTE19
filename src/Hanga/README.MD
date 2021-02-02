@@ -6,3 +6,6 @@ Idag har jag gjort koden som slumpar ett ord och börjat på att skriva det som 
 
 26/1-2021
 Har nästan inte fått någonting gjort idag, har kollat på olika youtube videos som förklarar hur man ska göra.
+
+2/2-2021
+Det har gått bättre idag för att jag fått hjälp av dig, tim och jacob, så jag har fått till ungefär hälften av koden.

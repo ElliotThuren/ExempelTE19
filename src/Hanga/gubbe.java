@@ -5,6 +5,8 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class gubbe {
+    public static final int NUM_GUESSES = 10;
+    private static char[] guessed;
     public static void main(String []args) {
 
         String[] ord = new String[] {
@@ -36,13 +38,10 @@ public class gubbe {
                         if (ord[rr].charAt(i) == guessedChar) {
                             sb.setCharAt(i, guessedChar);
                         }
-
                 }
                 guess = sb.toString();
-                public static final int NUM_GUESSES = 10;
-                private char[] guessed;
-                this.guessed = new char[NUM_GUESSES];
-                System.out.print("You so far guessed: ");
+                guessed = new char[NUM_GUESSES];
+                System.out.print("Dessa bokstäver har du gissat hitilts: ");
                 for (int i = 0; i < guessed.length; ++i) {
                     if (i > 0) {
                         System.out.print(", ");
@@ -50,12 +49,11 @@ public class gubbe {
                     if (guessed[i] != 0) {
                         System.out.print(guessed[i]);
                     } else {
-                        break; // stop the loop as soon as we run into a 0
+                        break;
                     }
                 }
                 System.out.println(".");
             }
           }
-
     }
 }
