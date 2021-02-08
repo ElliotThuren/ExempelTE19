@@ -7,17 +7,15 @@ Med detta projekt har jag fått i uppgift att göra ett hänga-gubbe spel i java
 Bakgrund:
 Projektets delar består av en randomizer som tar ett random ord från en lista, sen kan man gissa en bokstav och om det är rätt så byts understräcket ut om vart bokstaven ska vara i ordet. (WORK IN PROGRESS)
 
-I bakgrunden redogör du för projektets delar, här sammanfattar du din arbetsprocess. Beskriv den teknik du har använt och motivera valet av den. Berätta om ditt planeringsarbete. Försök att inte vara värderande, utan redogör för projektet, hur arbetet gick och dina erfarenheterna skriver du om i de följande delarna.
+I min arbetsprocess har jag använt mig mycket av google för att ta reda på hur man skriver koden och hur den fungerar, jag har också fått mycket hjälp av lärare vilket har lärt mig mycket om hur man ska tänka när man programmerar.
 
-Berätta om hur du har testat din produkt.
+Jag har testat min produkt flera gånger själv för att se vad som fungerar och inte, jag har också fått hjälp av klasskamrater att testa koden och skriva om den.
 
 Positiva erfarenheter:
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du kunna upprepa framgången i projektet.
+Det positiva är väl att jag fått ihop ett litet program på ett eller annat sätt och att jag lärt mig mycket mer om hur man kan göra, som att man t.ex. får ta kod från internet men helst inte hela programmet, helst att man tar olika delar från olika ställen och sedan försöka att sätta ihop delarna. För att kunna sätta ihop delarna så måste man veta hur de fungerar med varandra och hur man ska göra.
 
 Negativa erfarenheter:
-Här beskriver du det som du anser har gått mindre bra med ditt projekt och analyserar hur du kan undvika detta i framtida projekt.
+Det negativa är att det gick väldigt segt i början och att jag fortfarande inte är helt säker på alla basic grejer och i slutet så har jag inte en helt fungerande kod.
 
 Sammanfattning:
-Här redovisar du dina slutsatser, erfarenheter och lärdomar. Reflektera över din produkt och dess/dina utvecklingsmöjligheter.
-
-Vad kan vidareutvecklas och finns det utrymme att bygga vidare på projektet.
+Det finns mycket med projektet som kan vidareutvecklas och perfektionera, t.ex. att ha en superlång lista med random ord, göra så att man vet vad man gissat på, att man kan förlora och får ett meddelande när man förlorar eller vinner spelet.
