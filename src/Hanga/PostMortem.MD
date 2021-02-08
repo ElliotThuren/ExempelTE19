@@ -18,4 +18,4 @@ Negativa erfarenheter:
 Det negativa är att det gick väldigt segt i början och att jag fortfarande inte är helt säker på alla basic grejer och i slutet så har jag inte en helt fungerande kod.
 
 Sammanfattning:
-Det finns mycket med projektet som kan vidareutvecklas och perfektionera, t.ex. att ha en superlång lista med random ord, göra så att man vet vad man gissat på, att man kan förlora och får ett meddelande när man förlorar eller vinner spelet.
+Det finns mycket med projektet som kan vidareutvecklas och perfektionera, t.ex. att ha en väldigt lång lista med random ord, göra så att man vet vad man gissat på, att man kan förlora och får ett meddelande när man förlorar eller vinner spelet.
